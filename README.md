@@ -88,12 +88,6 @@ The main entry point may be `price_is_right_final.py` or another main script. Fo
 python src/price_is_right_final.py
 ```
 
-Or, if using the web interface:
-
-```bash
-python src/app.py
-```
-
 Check the actual main entrypoint in the `src/` folder or project documentation.
 
 ---
